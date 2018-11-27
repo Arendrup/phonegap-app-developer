@@ -1,1 +1,1 @@
-window.open('https://google.com', '_self ', 'location=yes');
+window.open('https://frivillig.coop/scan', '_self ', 'location=yes');
